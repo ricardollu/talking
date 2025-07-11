@@ -17,4 +17,4 @@ comment = false
 reaction = false
 +++
 
-Hi, My name is rica
+Hi

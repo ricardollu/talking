@@ -8,7 +8,7 @@ insert_anchor_links = "right"
 generate_feeds = true
 
 [extra]
-lang = "en"
+lang = "zh"
 
 title = "Posts"
 subtitle = "I write about code and life."

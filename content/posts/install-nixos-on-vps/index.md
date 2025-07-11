@@ -1,6 +1,7 @@
 +++
 title = "在 VPS(KiwiVM) 上安装 NixOS"
 date = "2025-07-11"
+comment = true
 +++
 
 # 挂载镜像
